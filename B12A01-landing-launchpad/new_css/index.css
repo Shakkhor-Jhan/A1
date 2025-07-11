@@ -1,0 +1,10 @@
+/* Custom styles for the body and fonts */
+body {
+    /* Sets the default font to 'Inter' and a fallback to sans-serif */
+    font-family: 'Inter', sans-serif;
+    /* Light grey background color for the entire page */
+    background-color: #f8f9fc;
+}
+
+/* Hero section background image and properties */
+
