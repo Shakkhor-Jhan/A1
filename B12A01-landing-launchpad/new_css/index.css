@@ -1,0 +1,21 @@
+
+body {
+ 
+    font-family: 'Inter', sans-serif; 
+    background-color: #f8f9fc;
+}
+.btn-primary {
+   
+    background-color: #5d50fe;
+}
+.btn-primary:hover {
+     background-color: #4a40d1;
+}
+.logo-font {
+    font-weight: 900; 
+    font-size: 4rem;
+    color: #5d50fe;
+    letter-spacing: -0.05em;
+}
+
+
